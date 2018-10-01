@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>Textill</title>
+<h1>Your No 1 Stop Shop for SHirts that speak</h1>
+
+<body>
+<p> We are about what we wear </p>
+
+<div style="background-color:darkgreen">
+
+<h3>It should define you</h3>
+<p>Speak and be heard</p>
+
+</div>
+
+</body>
+</html>
